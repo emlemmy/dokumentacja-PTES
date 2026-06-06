@@ -6,7 +6,7 @@
 | **Testowany Obiekt (Aplikacja)** | Aplikacja "PracaInzynierskaBlog" (DVWP)<br>https://github.com/codelemdev/dvwp                                                                                    |
 | **Zakres (Scope)**               | Host: `192.168.56.1`, port: `31337`<br>Aplikacja webowa WordPress.                                                                                               |
 | **Elementy Wyłączone z Zakresu** | Ataki DoS (Denial of Service), ataki na infrastrukturę, ataki fizyczne.                                                                                          |
-| **Zespół Testujący**             | `emlemmy`                                                                                                               |
+| **Zespół Testujący**             | emlemmy                                                                                                               |
 | **Data Rozpoczęcia**             | 2025-10-8                                                                                                                                                        |
 | **Data Zakończenia**             | 2025-12-9                                                                                                                                                        |
 
