@@ -12,7 +12,7 @@
 
 
 ## FAZA 1: Faza Wstępna (Pre-engagement Interactions)
-_Niniejsza sekcja stanowi podsumowanie kluczowych ustaleń umownych._
+_Podsumowanie kluczowych ustaleń umownych._
 
 - **Podstawa Formalna (Zgody i Upoważnienia):** Projekt realizowany w ramach pracy inżynierskiej na środowisku laboratoryjnym (Docker). Zgoda domniemana (własne środowisko).
     
