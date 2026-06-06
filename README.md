@@ -3,7 +3,7 @@
 | **Nazwa Projektu**               | Analiza przykładowych podatności aplikacji webowej opartej na CMS WordPress z wykorzystaniem OWASP TOP 10 2025 i metodyki Penetration Testing Execution Standard |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Klient**                       | Praca inżynierska Uniwersytet Merito Poznań                                                                                                                      |
-| **Testowany Obiekt (Aplikacja)** | Aplikacja "PracaInzynierskaBlog" (DVWP)<br>https://github.com/codelemdev/dvwp                                                                                    |
+| **Testowany Obiekt (Aplikacja)** | Aplikacja "PracaInzynierskaBlog" (fork DVWP)<br>https://github.com/vavkamil/dvwp                                                                                |
 | **Zakres (Scope)**               | Host: `192.168.56.1`, port: `31337`<br>Aplikacja webowa WordPress.                                                                                               |
 | **Elementy Wyłączone z Zakresu** | Ataki DoS (Denial of Service), ataki na infrastrukturę, ataki fizyczne.                                                                                          |
 | **Zespół Testujący**             | emlemmy                                                                                                               |
