@@ -1,6 +1,6 @@
 # Raport z testów penetracyjnych – aplikacja WordPress (praca inżynierska)
 
-> **Disclaimer / zakres autoryzacji:** Raport powstał w ramach pracy inżynierskiej i dotyczy **celowo podatnej, laboratoryjnej** aplikacji WordPress (fork [DVWP – Damn Vulnerable WordPress](https://github.com/vavkamil/dvwp)) uruchomionej w izolowanym środowisku Docker na maszynie autora. Wszystkie testy wykonano wyłącznie we własnym środowisku, w celach edukacyjnych. Dokument nie opisuje działań wobec żadnego rzeczywistego, cudzego systemu.
+> Raport powstał w ramach pracy inżynierskiej i dotyczy **celowo podatnej, laboratoryjnej** aplikacji WordPress (fork [DVWP – Damn Vulnerable WordPress](https://github.com/vavkamil/dvwp)) uruchomionej w izolowanym środowisku Docker na maszynie autora. Wszystkie testy wykonano wyłącznie we własnym środowisku, w celach edukacyjnych. Dokument nie opisuje działań wobec żadnego rzeczywistego, cudzego systemu.
 
 ## Informacje o Projekcie
 
